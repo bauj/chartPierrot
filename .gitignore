@@ -1,0 +1,4 @@
+node_modules/
+dist/
+.parcel*
+package-lock.json
